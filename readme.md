@@ -1,6 +1,6 @@
-# KOLLE-BOLLE WEB : INSPIRATION ET OUTILS
+#### KOLLE-BOLLE WEB 
+# INSPIRATION
 ## Sites
-***
 ### [Tendril](https://tendril.ca/) 
 Agence graphique 3D - Toronto / São paulo
 - Animations (SVG)
@@ -72,16 +72,16 @@ Agence
 - Minimalisme
 ***
 ### [aju](https://aju.dk/)
-agence - Danemark
+Agence - Danemark
 - parallaxe
 ***
 ### [Akademi](https://studioakademi.com/)
-agence - Suède
+Agence - Suède
 - animation lettres
 - gif original
 ***
 ### [Julie Bonnemoy](https://juliebonnemoy.com/)
-graphiste freelance
+Graphiste freelance
 - parallaxe
 - hover sur blocs
 - AJAX
@@ -93,10 +93,15 @@ DA freelance
 - hover sur blocs
 ***
 ### [Sennep](http://sennep.com/contact/)
-agence
+Agence
 - animations
-## Ressources
-
+***
+### [Tobias Ahlin](http://tobiasahlin.com/)
+Designer
+- minimalisme
+- ressources
+***
+## Exemples
 - [Grid loading animations](https://tympanus.net/Development/GridLoadingAnimations/#) (SVG + anime.js)
 - [Isometric grid + hover effetcs](https://tympanus.net/Development/IsometricGrids/index2.html)
 - [Grid click on block effects](https://tympanus.net/Development/ImageGridEffects/index.html) (+ AJAX ?)
@@ -105,10 +110,11 @@ agence
 - [Grid hover on block effects](https://tympanus.net/Tutorials/ShapeHoverEffectSVG/index.html#)
 - [Grid hover on block effects [2]](https://tympanus.net/Tutorials/ShapeHoverEffectSVG/index.html#)
 - [Animated SVG icons](https://tympanus.net/Development/AnimatedSVGIcons/)
+- [Line menu styles](https://tympanus.net/Development/LineMenuStyles/)
 - [Proximity Feedback](https://tympanus.net/Development/ProximityFeedback/index.html)
-
 ## Misc 
-
 - [Typo qui réagit au son](https://goertek.kontrapunkt.com/online/)
 - [Objet 3D intéressant (the XX)](http://thexxnightandday.com/bilbao/)
 - [Manga / anims / gifs](https://auwaa.ch/#)
+# Ressources et outils
+- [SVGOMG](https://jakearchibald.github.io/svgomg/)
