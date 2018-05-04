@@ -101,6 +101,10 @@ Designer
 - minimalisme
 - ressources
 ***
+### [Fazeta](http://fazetaproducciones.com/en)
+Agence
+- Navigation
+- Boutons
 ## Exemples
 - [Grid loading animations](https://tympanus.net/Development/GridLoadingAnimations/#) (SVG + anime.js)
 - [Isometric grid + hover effetcs](https://tympanus.net/Development/IsometricGrids/index2.html)
