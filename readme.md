@@ -122,3 +122,4 @@ Agence
 - [Manga / anims / gifs](https://auwaa.ch/#)
 # Ressources et outils
 - [SVGOMG](https://jakearchibald.github.io/svgomg/)
+- [Foundation for emails](https://foundation.zurb.com/emails/docs/)
